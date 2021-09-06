@@ -19,4 +19,4 @@ Author: Supreme#2401
 License: MIT License
 Time working: About 5 hours
 Made using: HTML5, CSS3, JavaScript
-Text Editor: Repl.it
+
