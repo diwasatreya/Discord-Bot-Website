@@ -4,7 +4,7 @@ Advanced Discord dashboard of different pages.
 # Discord Server
 - A fun social active Discord Server for chill and coding support also we conduct many program, events, Talent Show, Movie
 - We provide many and many codes there feel free to join 
-- Vanity URL: discord.gg/admin
+- Vanity URL: discord.gg/dcdev
 - Invite: https://discord.gg/gU7XAxTpX5
 
 
